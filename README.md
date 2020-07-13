@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Classic Tic Tac Toe Game
 ***
 
-![](//yadi.sk/i/asiOxS_DVl_GQg)
-
 ### *Download project*
 
 ####`git clone https://github.com/nikochetov/tictactoe-app.git`
